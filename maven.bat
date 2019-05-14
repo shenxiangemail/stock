@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=./yunst-sdk-0.0.1-SNAPSHOT.jar -DgroupId=com.allinpay -DartifactId=yunst-sdk -Dversion=0.0.1-SNAPSHOT -Dpackaging=jar
